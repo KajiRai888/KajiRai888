@@ -27,14 +27,16 @@ Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into co
 - Real-time AI automation and decision systems.  
 - Robotics, computer vision, animation, and creative simulation.  
 - Blockchain and decentralized architectures.  
-- Quantum computing and scientific computing (math, chemistry, physics).  
+- Quantum computing and scientific computing (math, chemistry, physics).
+- Cybersecurity 
 
 ---
 
 ### 💬 `Ask Me About`
 - Building scalable trading and fintech infrastructures.  
 - Turning raw business ideas into operational, data-driven systems.  
-- Business, economics, taxation, and investment in the **Nepali ecosystem**.  
+- Business, economics, taxation, and investment in the **Nepali ecosystem**.
+- Data science 
 - Capital, commodity, and service markets.  
 - Multicultural and multilingual collaboration:  
   *(Chinese | Korean | Japanese | Hindi | Nepali | English | a bit of Russian)*   
