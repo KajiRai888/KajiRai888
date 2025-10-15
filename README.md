@@ -14,6 +14,14 @@ Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into co
 
 ---
 
+### 🛰️ `Connect With Me`
+- 📧 **Email:** [hellonepal017@gmail.com]  
+- 💬 **WeChat:** [zhaoanxin8888888]  
+- 📱 **WhatsApp:** [+818080496249]  
+- 🌐 **Website:** [AiNepali.com] 
+
+---
+
 ### 🤝 `Open for Collaboration`
 - Digital trade ecosystems and fintech innovation.  
 - Real-time AI automation and decision systems.  
@@ -29,15 +37,7 @@ Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into co
 - Business, economics, taxation, and investment in the **Nepali ecosystem**.  
 - Capital, commodity, and service markets.  
 - Multicultural and multilingual collaboration:  
-  *(Chinese | Korean | Japanese | Hindi | Nepali | English | a bit of Russian)*  
-
----
-
-### 🛰️ `Connect With Me`
-- 📧 **Email:** [hellonepal017@gmail.com]  
-- 💬 **WeChat:** [zhaoanxin8888888]  
-- 📱 **WhatsApp:** [+818080496249]  
-- 🌐 **Website:** [AiNepali.com]  
+  *(Chinese | Korean | Japanese | Hindi | Nepali | English | a bit of Russian)*   
 
 ---
 
