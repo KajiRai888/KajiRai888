@@ -28,7 +28,7 @@ I believe learning never ends. Every trial, error, and experiment, every experie
 - Robotics, computer vision, animation, and creative simulation.  
 - Blockchain and Cybersecurity.
 - Quantum (physics, computing, technology).
-- Big Data Handling, ML, LLM, Ethical Hacking.
+- Big Data Handling, ML, LLM, Gen Ai.
 - IoT and other equipment development for every sector (Space, Military, Education, Mining, Construction, Production, Agriculture).
 - Green Environment and Healthy Earth
 
