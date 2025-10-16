@@ -3,14 +3,15 @@
 </h1>
 
 <p align="center" style="color:#CCCCCC;">
-Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into code</b>, and code evolves into <b>living, intelligent systems</b>.  
+Welcome to my <b>Digital Info</b>. I believe that it shall promote <b>our ideas transforming into cooperation</b>, and that cooperation evolves into <b>human happiness</b>. 
 </p>
 
 ---
 
 ### ⚙️ `About Me`
-> I’m an explorer at the intersection of **AI**, **Blockchain**, **Software Engineering**, and **Data-Driven Design** — crafting <b>futuristic, sci-fi-inspired digital platforms</b> for trade, automation, and human collaboration.  
-> Passionate about solving complex problems with creativity, precision, and technology that feels almost alive.
+>I’m a **lifelong learner** who loves exploring how AI, technology, science, mathematics, physics, chemistry, art, and creativity can improve, uplift, and help people, humanity, society, and the world, even the cosmos. My goal is not only to learn and apply technology, create ideas, equations, functions, models, and tools, but also to contribute to human progress, happiness, harmony, and peace, to protect and preserve the world’s green environment, and to produce positive energy throughout the cosmos.
+
+I believe learning never ends. Every trial, error, and experiment, every experience, every project, and every mistake is a strong pillar, tile, and part of the architecture of knowledge that serves society and the cosmos, helping to build a better, harmonious, happy, and **inspiring future for humanity**.
 
 ---
 
@@ -23,43 +24,37 @@ Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into co
 ---
 
 ### 🤝 `Open for Collaboration`
-- Digital trade ecosystems and fintech innovation.  
-- Real-time AI automation and decision systems.  
+- Digital futuristic and fintech innovation.    
 - Robotics, computer vision, animation, and creative simulation.  
-- Blockchain and decentralized architectures.  
-- Quantum computing and scientific computing (math, chemistry, physics).
-- Cybersecurity 
+- Blockchain and Cybersecurity.
+- Quantum (physics, computing, technology).
+- Big Data Handling, ML, LLM, Ethical Hacking.
+- IoT and other equipment development for every sector (Space, Military, Education, Mining, Construction, Production, Agriculture).
+- Green Environment and Healthy Earth
 
 ---
 
 ### 💬 `Ask Me About`
 - Building scalable trading and fintech infrastructures.  
-- Turning raw business ideas into operational, data-driven systems.  
-- Business, economics, taxation, and investment in the **Nepali ecosystem**.
-- Data science 
-- Capital, commodity, and service markets.  
+- Cluture, Society, People, Politics, Law, Business, economy, and investment in the **Nepali ecosystem**.
+- International trading, Capital, commodity, and service markets.  
 - Multicultural and multilingual collaboration:  
   *(Chinese | Korean | Japanese | Hindi | Nepali | English | a bit of Russian)*   
 
 ---
 
-### ⚡ `Fun Fact`
-> I believe technology isn’t just about solving problems —  
-> it’s about **reimagining what’s possible and then daring to build it.**
-
----
-
 ### 🧭 `Guiding Quotes for Innovation`
-> *“The best way to predict the future is to invent it.”* — Alan Kay  
 > *“Imagination is more important than knowledge.”* — Albert Einstein  
-> *“We are all now connected by the Internet, like neurons in a giant brain.”* — Stephen Hawking  
-> *“Innovation distinguishes between a leader and a follower.”* — Steve Jobs  
-> *“Any sufficiently advanced technology is indistinguishable from magic.”* — Arthur C. Clarke  
+> *“Waste no more time arguing about what a good man should be. Be one.”* — Marcus Aurelius
+> *“It is not death that a man should fear, but he should fear never beginning to live.”* — Marcus Aurelius 
+> *“Do every act of your life as though it were the very last act of your life.”* — Marcus Aurelius
+> *“Loss is nothing else but change, do not fear change; it is the constant force that propels innovation and evolution.”* — Marcus Aurelius
+> *“The best way to predict the future is to invent it.”* — Alan Kay 
 
 ---
 
 <h3 align="center" style="color:#00FFFF; font-family:'Share Tech Mono', monospace;">
-🧬 Building the Future. One Commit at a Time.
+🧬 Imagination is the compass, and action is the voyage that carries us into tomorrow. 
 </h3>
 
 <p align="center">
@@ -67,6 +62,6 @@ Welcome to my <b>Digital Garage</b> — a space where <b>ideas transform into co
 </p>
 
 <p align="center" style="color:#888;">
-  <i>“Code is the language of creation, and imagination is its compiler.”</i>
+  <i>“Every creation begins as an idea; every idea takes form through imagination.”</i>
 </p>
 
