@@ -21,7 +21,7 @@ We are a **lifelong explorer of knowledge** — driven by curiosity, creativity,
 - Movie & Documentary
 - Cybersecurity, blockchain & cryptographic engineering
 - AI & automation 
-- Hardware, Networking & Data Center 
+- Hardware, Software, Networking & Data Center 
 - Quantum computing, quantum algorithms & theoretical physics 
 - Green technology & sustainable environmental solutions  
 - Human Happiness 
@@ -44,6 +44,7 @@ We are a **lifelong explorer of knowledge** — driven by curiosity, creativity,
 <p align="center" style="color:#888;">
   <i>“Every creation begins as an idea; every idea takes form through imagination.”</i>
 </p>
+
 ---
 
 ### 🛰️ `Connect With Us`
@@ -53,3 +54,8 @@ We are a **lifelong explorer of knowledge** — driven by curiosity, creativity,
 - 🌐 **Website:**
 
 ---
+
+<p align="center" style="color:#888;">
+  <i>“Thank You  !!! Nice to See You Here !!! :D ”</i>
+</p>
+
