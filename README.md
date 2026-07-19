@@ -56,6 +56,6 @@ We are a **lifelong explorer of knowledge** — driven by curiosity, creativity,
 ---
 
 <p align="center" style="color:#888;">
-  <i>“Thank You  !!! Nice to See You Here !!! :D ”</i>
+  <i>“Thank You  !!! Nice to See You Here !!! ”</i>
 </p>
 
